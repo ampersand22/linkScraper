@@ -1,10 +1,12 @@
 # linkScraper
 
-Objective: Have function download web page, then scrape the page to return the links.
+Objective: Have function use web page, then scrape the page to return the links.
 
 Packages considered: Puppeteer, Cheerio, Axios, Selenium
 
-Sources: 
+Sources:
+pptr.dev (docs)
+
 toscrape.com
 
 https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/
