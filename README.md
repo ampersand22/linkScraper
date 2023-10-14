@@ -16,3 +16,5 @@ https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-n
 
 https://thedatajocks.com/web-scraping-sports-data-beautifulsoup-selenium/
 
+https://www.tutorialspoint.com/puppeteer/puppeteer_handling_links_button.htm
+
