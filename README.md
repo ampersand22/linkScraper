@@ -5,6 +5,7 @@ Objective: Have function use web page, then scrape the page to return the links.
 Packages considered: Puppeteer, Cheerio, Axios, Selenium
 
 Sources:
+
 pptr.dev (docs)
 
 toscrape.com
